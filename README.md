@@ -9,7 +9,7 @@ The aim of this experiment was to calculate the quantities of radioactive isotop
 * Chi-Square contour analysis
 * Linear Regression
 * Data visualisation in matplotlib
-* 
+
 ## Files
 * Gamma Spectroscopy Lab Script.pdf contains a brief outline of the experiment given to me before I started.
 * Gamma Spectroscopy Notebook.pdf contains my handwritten notes from during the experiment including a schematic diagram, key figures, snippets of the recorded data, calculations, data analysis and conclusions. 
